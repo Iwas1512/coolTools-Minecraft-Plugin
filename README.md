@@ -57,9 +57,6 @@ Event listeners for equipment effects
 Scheduler implementation for recurring tasks
 Permission-based ability control
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-🤝 Contributing
 
 Fork the project
 Create your feature branch (git checkout -b feature/amazing-feature)
