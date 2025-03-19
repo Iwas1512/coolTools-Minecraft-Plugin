@@ -41,7 +41,7 @@ itemsplugin.supertool - Allows use of the Super Pickaxe
 itemsplugin.specialarmor - Allows use of special armor
 itemsplugin.keepflight - Allows admins to retain flight when logging out
 
-🖼️ Screenshots
+
 <details>
 <summary>Click to expand</summary>
 Show Image
