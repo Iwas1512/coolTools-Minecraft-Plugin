@@ -43,8 +43,7 @@ itemsplugin.keepflight - Allows admins to retain flight when logging out
 
 
 <details>
-<summary>Click to expand</summary>
-Show Image
+
 Breaking multiple blocks at once with the Super Pickaxe
 Show Image
 Player using Flash Boots and Winged Helmet
