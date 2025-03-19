@@ -44,7 +44,7 @@ Enjoy your new special items!
 
 🔧 Building from Source
 bashCopy# Clone the repository
-git clone https://github.com/yourusername/ItemsPlugin.git
+git clone https://github.com/Iwas1512/coolTools-Minecraft-Plugin
 
 # Navigate to the project
 cd ItemsPlugin
