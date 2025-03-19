@@ -1,0 +1,15 @@
+name: ItemsPlugin
+version: '${version}'
+main: coolTools.itemsPlugin.ItemsPlugin
+api-version: '1.21'
+description: A plugin that adds custom tools and armor with special abilities
+
+commands:
+  supertool:
+    description: Gives you a special pickaxe that breaks blocks in a 3x3 area
+    usage: /supertool
+    permission: itemsplugin.supertool
+  specialarmor:
+    description: Gives you special armor with abilities
+    usage: /specialarmor <speedboots|wingedhelmet>
+    permission: itemsplugin.specialarmor
