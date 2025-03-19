@@ -33,15 +33,23 @@ cd ItemsPlugin
 
 # Find the JAR in
 # build/libs/ItemsPlugin-1.0-SNAPSHOT.jar
-📝 Commands
-CommandDescriptionPermission/supertoolGives you a Super Pickaxeitemsplugin.supertool/specialarmor speedbootsGives you Flash Bootsitemsplugin.specialarmor/specialarmor wingedhelmetGives you a Winged Helmetitemsplugin.specialarmor
-🛡️ Permissions
+# Commands and Permissions
 
-itemsplugin.supertool - Allows use of the Super Pickaxe
-itemsplugin.specialarmor - Allows use of special armor
-itemsplugin.keepflight - Allows admins to retain flight when logging out
+## 📝 Commands
 
+| Command | Description | Permission |
+|---------|-------------|------------|
+| `/supertool` | Gives you a Super Pickaxe | itemsplugin.supertool |
+| `/specialarmor speedboots` | Gives you Flash Boots | itemsplugin.specialarmor |
+| `/specialarmor wingedhelmet` | Gives you a Winged Helmet | itemsplugin.specialarmor |
 
+## 🛡️ Permissions
+
+| Permission | Description |
+|------------|-------------|
+| `itemsplugin.supertool` | Allows use of the Super Pickaxe |
+| `itemsplugin.specialarmor` | Allows use of special armor |
+| `itemsplugin.keepflight` | Allows admins to retain flight when logging out |
 <details>
 
 Breaking multiple blocks at once with the Super Pickaxe
