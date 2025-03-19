@@ -1,55 +1,71 @@
-# coolTools-Minecraft-Plugin
 ItemsPlugin
-A Minecraft plugin that adds special tools and armor with unique abilities.
-Features
-Super Pickaxe
+Show Image
+Show Image
+Show Image
+A lightweight Minecraft plugin that adds special tools and armor with unique abilities.
+✨ Features
 
-Breaks blocks in a 3x3 area
-Makes mining faster and more efficient
-Perfect for clearing large areas quickly
+Super Pickaxe: Mine blocks in a 3x3 area for efficient resource gathering
+Flash Boots: Move at incredible speeds with enhanced jump height
+Winged Helmet: Experience creative-mode flight while wearing
 
-Flash Boots
-
-Grants extreme speed (Speed V)
-Enhances jump height
-Move around your world at lightning speed!
-
-Winged Helmet
-
-Enables creative-style flight while worn
-Great for building, exploring, or rapid travel
-Flight automatically disabled when removing helmet
-
-Commands
-CommandDescription/supertoolGives you a Super Pickaxe/specialarmor speedbootsGives you Flash Boots/specialarmor wingedhelmetGives you a Winged Helmet
-Permissions
-PermissionDescriptionitemsplugin.supertoolAccess to the /supertool commanditemsplugin.specialarmorAccess to the /specialarmor commanditemsplugin.keepflightAllows admins to keep flight ability when logging out
-Installation
-
-Download the latest release JAR file
-Place it in your server's /plugins folder
-Restart your server
-Start using the commands!
-
-For Developers
-This plugin demonstrates:
-
-Custom item creation
-Event listeners for special abilities
-Scheduled tasks for effect refreshing
-Player permission handling
-
-Requirements
+📋 Requirements
 
 Minecraft 1.21.x or later
 Paper/Spigot server
 
-License
-MIT License
-Contributing
+🚀 Installation
 
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing-feature)
+Download the JAR file from the Releases page or build from source
+Place it in your server's /plugins folder
+Restart your server
+Enjoy your new special items!
+
+🔧 Building from Source
+bashCopy# Clone the repository
+git clone https://github.com/yourusername/ItemsPlugin.git
+
+# Navigate to the project
+cd ItemsPlugin
+
+# Build with Gradle
+./gradlew build
+
+# Find the JAR in
+# build/libs/ItemsPlugin-1.0-SNAPSHOT.jar
+📝 Commands
+CommandDescriptionPermission/supertoolGives you a Super Pickaxeitemsplugin.supertool/specialarmor speedbootsGives you Flash Bootsitemsplugin.specialarmor/specialarmor wingedhelmetGives you a Winged Helmetitemsplugin.specialarmor
+🛡️ Permissions
+
+itemsplugin.supertool - Allows use of the Super Pickaxe
+itemsplugin.specialarmor - Allows use of special armor
+itemsplugin.keepflight - Allows admins to retain flight when logging out
+
+🖼️ Screenshots
+<details>
+<summary>Click to expand</summary>
+Show Image
+Breaking multiple blocks at once with the Super Pickaxe
+Show Image
+Player using Flash Boots and Winged Helmet
+</details>
+👩‍💻 For Developers
+This plugin demonstrates:
+
+Custom item creation and management
+Event listeners for equipment effects
+Scheduler implementation for recurring tasks
+Permission-based ability control
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+🤝 Contributing
+
+Fork the project
+Create your feature branch (git checkout -b feature/amazing-feature)
 Commit your changes (git commit -m 'Add some amazing feature')
 Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
+
+
+Made with ❤️ for the Minecraft community
