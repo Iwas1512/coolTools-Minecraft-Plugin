@@ -2,6 +2,9 @@
 
 A lightweight Minecraft plugin that adds special tools and armor with unique abilities.
 
+##Video Showcase
+-View At https://anliliwas.com/#/projects
+
 ## ✨ Features
 
 ### 🔮 Item Features
