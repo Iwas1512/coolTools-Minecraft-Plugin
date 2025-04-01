@@ -73,4 +73,4 @@ This plugin demonstrates:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-Made with ❤️ for the Minecraft community
+Made with ❤️ for the Minecraft community :)
