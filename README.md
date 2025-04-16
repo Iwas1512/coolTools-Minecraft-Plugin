@@ -4,6 +4,7 @@ A lightweight Minecraft plugin that adds special tools and armor with unique abi
 
 ##Video Showcase
 -View At https://anliliwas.com/#/projects
+Contact me at that website as well!
 
 ## ✨ Features
 
