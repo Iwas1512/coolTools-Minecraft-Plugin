@@ -8,7 +8,7 @@ Contact me at that website as well!
 
 ## ✨ Features
 
-### 🔮 Item Features:
+### 🔮 Item Features
 
 | Item | Description |
 |------|-------------|
