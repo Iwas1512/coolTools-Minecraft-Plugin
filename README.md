@@ -1,4 +1,4 @@
-# ItemsPlugin (Compatible With 1.26+) 
+# ItemsPlugin (Compatible With 1.26+) :
 
 A lightweight Minecraft plugin that adds special tools and armor with unique abilities.
 
